@@ -1,7 +1,8 @@
 # GG-Hospital
 gg-hospital is a project to build a home page for the hospital GG Hospital,
 ## Header
-Contains contact details
+Contains contact details  
+  
 ![image](https://github.com/JoelJOL/gg-hospital/assets/63315432/f718ebab-cffe-4372-8424-0dcc632e5c4c)
 
 ## Navigation bar
@@ -10,6 +11,7 @@ The navigation bar provides options to browse onto pages of:
 -Patient Care&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;-Department  
 -Academics & Research&nbsp;&nbsp;-News & Media  
 -Contact Us  
+  
 ![image](https://github.com/JoelJOL/gg-hospital/assets/63315432/0ea83cd6-196a-43a0-a083-cd198172ab71)
 ## Top bar
 The top bar provides the service to book an appoinment using a button and a button to have a talk with your prefered doctors.
@@ -19,6 +21,7 @@ It also comes with a form that asks you to fill in the details like:
 -Date of appoinment  
 -Department  
 -Doctor Name  
+  
 ![image](https://github.com/JoelJOL/gg-hospital/assets/63315432/9bb74d97-f4ae-4868-b291-201041600d1d)
 ## Informations Provided
 ### Departments
@@ -39,7 +42,8 @@ Contact details:
 -Address  
 -Phone Numbers  
 -E-mail  
--Social Media    
+-Social Media 
+  
 ![image](https://github.com/JoelJOL/gg-hospital/assets/63315432/f35b292c-e176-49d1-8a46-700694f1c8ac)
 
 
