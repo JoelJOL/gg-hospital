@@ -30,12 +30,12 @@
     width:360px;}
 #ttt{
     font-size: 23px;
-    position: absolute;
+    /* position: absolute; */
 }
 .deprat-txt{
     font-size: 17px;
     padding-right: 10px;
-    position: absolute;
+    /* position: absolute; */
     z-index: 99;
     top:580%;
 }
@@ -43,7 +43,8 @@
     margin-top: 200px;
     width:100%;
     height: 600px;
-    background-color: #ddfff9;
+    /* background-color: #ddfff9; */
+    background-color: #E8F9F6;
     display: flex;
     position: relative;
 }
@@ -161,15 +162,20 @@
 #you-intrested{
     margin-top: 120px;
     text-align: center;
+    margin-top: 80px;
+    margin-bottom: 115px;
 }
 #intrested-divs{
-    width: 100%;
-    background-color: rgb(255, 255, 255);
+    width: 86%;
+    background-color: rgba(255, 255, 255, 0);
     height: fit-content;
     display: flex;
     justify-content: space-between;
     top:400%;
     z-index: 99;
+    position: absolute;
+    top:550%;
+    
 }
 #intrested-div1{
     flex:1;
@@ -181,8 +187,8 @@
     flex:1;
 }
 .int1{
-    width: 350px;
-    position: absolute;
+    width: 360px;
+    /* position: absolute; */
 }
 
 
@@ -191,12 +197,129 @@
     padding: 0;
     width: 100%;
     height: 100vh;
-    position: relative;
-    background-color:#ddfff9bd;
+    position: absolute;
+    /* background-color:#d3fbf3; */
+    display: flex;
+    background: #EAF2FF;
+    justify-content: center;
     /* background-color:#ff7c7c75; */
     z-index: -10;
+    margin-bottom: 200px;
 
 }
 #page-contain{
     padding: 0 105px 0 105px;
+}
+
+
+#newsletter{
+    background-color: white;
+    margin-top: 200px;
+    /* margin-left: 300px; */
+    width:85%;
+    height: 35%;
+    margin-top: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#newsletter-content{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    justify-content: space-between;
+    margin: 30% 6%;
+    align-items: center;
+}
+#newsletter-email{
+    border: 0px;
+    
+}
+#newsletter-hr{
+    margin-top: 1%;
+}
+
+
+
+
+
+#footer{
+    margin-top: 760px;
+    width: 100%;
+    height: 50vh;
+    background: #F9FAFA;
+
+}
+#footer-top-1{
+    display: flex;
+    height: 27vh;
+    justify-content: space-between;
+    align-items: end;
+    /* padding:90px 0px 0px 0px ; */
+}
+#footer-logo{
+    width: 200px;
+}
+#footer-logo-txt{
+    width: fit-content;
+    height: fit-content;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    
+}
+#footer-top-text{
+    font-size: 13px;
+}
+#footer-aboutgg{
+    /* display: flex; */
+    width: fit-content;
+    margin-left: 250px;
+
+}
+.footer-write-t-list{
+    display: flex;
+}
+.footer-write-t{
+    padding-left: 15px;
+}
+.footer-write-txt{
+    font-size: 13px;
+    padding: 15px;
+}
+#footer-lagal{width:300px;
+    width: fit-content;
+    margin-right: 80px;
+    
+}
+
+
+
+
+#footer-bottom-1{
+    display: flex;
+    justify-content: space-between;
+}
+#footer-address{
+    margin-left: 70px;
+    
+}
+#footer-phone{
+    /* margin-top: 7px; */
+}
+#footer-media{
+    margin-right: 145px;
+    margin-top: 15px;
+}
+#footer-mail{
+    /* margin-right: 20px; */
+    margin-left: 50px;
+}
+#br-footer{
+    line-height: 2px;
+}
+#media-icons{
+    margin-top: 10px;
+}
+.footer-small-images{
+   
 }
