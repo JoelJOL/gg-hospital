@@ -32,14 +32,14 @@ It also comes with a form that asks you to fill in the details like:
 ### Others
 ![image](https://github.com/JoelJOL/gg-hospital/assets/63315432/6dc756ed-d6ca-43b2-bac9-a824af17093b)
 ## Newsletter
-To subss=cribe to newsletters using email.
+To subss=cribe to newsletters using email.  
 ![image](https://github.com/JoelJOL/gg-hospital/assets/63315432/0ec1a0b2-90fd-4148-8b84-b840d0fde526)
 ## Footer
 Contact details:  
 -Address  
 -Phone Numbers  
 -E-mail  
-=Social Media  
+-Social Media    
 ![image](https://github.com/JoelJOL/gg-hospital/assets/63315432/f35b292c-e176-49d1-8a46-700694f1c8ac)
 
 
