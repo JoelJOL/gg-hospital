@@ -39,10 +39,13 @@
     z-index: 99;
     top:580%;
 }
+.redm{
+    color: #17C1A3;
+}
 #doctorss{
     margin-top: 200px;
     width:100%;
-    height: 600px;
+    height: 550px;
     /* background-color: #ddfff9; */
     background-color: #E8F9F6;
     display: flex;
@@ -58,7 +61,13 @@
 }
 #doc-img-madk{
     width:800px;
-    height:600px;
+    height:550px;
+    z-index: 10;
+}
+#docmaskbg{
+    position: absolute;
+    top:0;
+    width: 600px;
 }
 #doc-img-txt ul{ 
     list-style-image: url("images/tick.jpg"); 
@@ -174,7 +183,7 @@
     top:400%;
     z-index: 99;
     position: absolute;
-    top:550%;
+    top:560%;
     
 }
 #intrested-div1{
@@ -238,6 +247,12 @@
 #newsletter-hr{
     margin-top: 1%;
 }
+#newsletterbg{
+    position: absolute;
+    top:354px;
+    left: 100px;
+    width: 700px;
+}
 
 
 
@@ -263,7 +278,7 @@
 #footer-logo-txt{
     width: fit-content;
     height: fit-content;
-    margin-bottom: 20px;
+    margin-bottom: 3px;
     margin-left: 80px;
     
 }
@@ -274,6 +289,7 @@
     /* display: flex; */
     width: fit-content;
     margin-left: 250px;
+    margin-bottom: 2px;
 
 }
 .footer-write-t-list{
@@ -285,11 +301,12 @@
 .footer-write-txt{
     font-size: 13px;
     padding: 15px;
+    line-height: 20px;
 }
 #footer-lagal{width:300px;
     width: fit-content;
     margin-right: 80px;
-    
+    margin-bottom: 2px;
 }
 
 
@@ -300,10 +317,16 @@
     justify-content: space-between;
 }
 #footer-address{
+    display: flex;
+    align-items: top;
+    justify-content: center;
     margin-left: 70px;
     
 }
 #footer-phone{
+    display: flex;
+    align-items: top;
+    justify-content: center;
     /* margin-top: 7px; */
 }
 #footer-media{
@@ -311,6 +334,9 @@
     margin-top: 15px;
 }
 #footer-mail{
+    display: flex;
+    align-items: top;
+    justify-content: center;
     /* margin-right: 20px; */
     margin-left: 50px;
 }
@@ -321,5 +347,8 @@
     margin-top: 10px;
 }
 .footer-small-images{
-   
+   width: 13px;
+}
+.footer-write-txt-content{
+    padding:15px !important;
 }

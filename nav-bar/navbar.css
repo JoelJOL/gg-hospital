@@ -17,11 +17,11 @@ header{
 }
 #header1{
     display: flex;
-    width: 100%;
+    width: 84.5%;
     height: 52px;
     background-color: rgb(241, 241, 241);
     justify-content: space-between;
-    padding:0;
+    padding:0px 105px 0px 105px;
 }
 #follow-text{
     font-size: 14px;
@@ -34,6 +34,9 @@ header{
     justify-content: space-between;
     background-color: rgb(241, 241, 241);
     width: 200px;
+}
+#nav-list{
+    font-size: 14px;
 }
 #media{
     padding-top: 12px;
@@ -53,7 +56,11 @@ header{
    top:4px
 }   
 #ph-mail{
+    display: flex;
     padding-top: 5px;
+}
+#mail{
+    display: flex;
 }
 
 #fol-right{
@@ -95,6 +102,9 @@ a{
     font-size: 18px;
     font-family: 'Inter', sans-serif;
     
+  }
+  #redhome{
+    color: #C42026;
   }
 
   
