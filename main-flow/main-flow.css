@@ -36,7 +36,7 @@
     font-size: 17px;
     padding-right: 10px;
     /* position: absolute; */
-    z-index: 99;
+    z-index: 5;
     top:580%;
 }
 .redm{
@@ -181,9 +181,9 @@
     display: flex;
     justify-content: space-between;
     top:400%;
-    z-index: 99;
+    z-index: 10;
     position: absolute;
-    top:560%;
+    top:550%;
     
 }
 #intrested-div1{
