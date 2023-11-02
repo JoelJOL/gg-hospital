@@ -1,4 +1,4 @@
-# GG-Hospital
+# What is GG-Hospital
 gg-hospital is a project to build a home page for the hospital GG Hospital,
 ## Header
 Contains contact details  
