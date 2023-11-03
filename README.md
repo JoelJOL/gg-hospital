@@ -1,17 +1,17 @@
 # What is GG-Hospital
 gg-hospital is a project to build a home page for the hospital GG Hospital.  
 ## Contents   
-1.Header  
-2.Navigation bar  
-3.Top bar  
-4.Information Provided  
-&nbsp;&nbsp;4.1.Departments  
-&nbsp;&nbsp;4.2.Reasons to choose  
-&nbsp;&nbsp;4.3.Specialists  
-&nbsp;&nbsp;4.4.Facilities and Activities  
-&nbsp;&nbsp;4.5.Others  
-5.Newsletter  
-6.Footer  
+1. Header  
+2. Navigation bar  
+3. Top bar  
+4. Information Provided  
+&nbsp;&nbsp;&nbsp;&nbsp;4.1. Departments  
+&nbsp;&nbsp;&nbsp;&nbsp;4.2. Reasons to choose  
+&nbsp;&nbsp;&nbsp;&nbsp;4.3. Specialists  
+&nbsp;&nbsp;&nbsp;&nbsp;4.4. Facilities and Activities  
+&nbsp;&nbsp;&nbsp;&nbsp;4.5. Others  
+5. Newsletter  
+6. Footer  
 ## 1.Header  
 Contains contact details  
 
