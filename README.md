@@ -1,6 +1,18 @@
 # What is GG-Hospital
-gg-hospital is a project to build a home page for the hospital GG Hospital,
-## 1.Header
+gg-hospital is a project to build a home page for the hospital GG Hospital.  
+## Contents   
+1.Header  
+2.Navigation bar  
+3.Top bar  
+4.Information Provided  
+&nbsp;&nbsp;4.1.Departments  
+&nbsp;&nbsp;4.2.Reasons to choose  
+&nbsp;&nbsp;4.3.Specialists  
+&nbsp;&nbsp;4.4.Facilities and Activities  
+&nbsp;&nbsp;4.5.Others  
+5.Newsletter  
+6.Footer  
+## 1.Header  
 Contains contact details  
 
   ![image](https://github.com/JoelJOL/gg-hospital/assets/63315432/c23e5ccb-e28d-4f43-8b5b-7e2c3ea28433)
@@ -26,19 +38,19 @@ It also comes with a form that asks you to fill in the details like:
 ![image](https://github.com/JoelJOL/gg-hospital/assets/63315432/2a388c7a-8f7c-4773-8857-2010ab4f7339)
 
 ## 4.Informations Provided
-### Departments
+### 4.1.Departments
 ![image](https://github.com/JoelJOL/gg-hospital/assets/63315432/7d71f802-f2a8-45f8-aa8a-a8ed47a97501)
 
-### 4.1.Reasons to choose
+### 4.2.Reasons to choose
 ![image](https://github.com/JoelJOL/gg-hospital/assets/63315432/bac865d1-b988-48fc-95eb-e63574a3e4b8)
 
-### 4.2.Specialists
+### 4.3.Specialists
 ![image](https://github.com/JoelJOL/gg-hospital/assets/63315432/9ca01bcb-c3d9-4b2f-b318-481024e31249)
 
-### 4.3.Facilities and Activities
+### 4.4.Facilities and Activities
 ![image](https://github.com/JoelJOL/gg-hospital/assets/63315432/7cb74245-6385-46a1-b77b-947f7fe3d9e7)
 
-### 4.4.Others
+### 4.5.Others
 ![image](https://github.com/JoelJOL/gg-hospital/assets/63315432/3df985ea-417d-4fe7-a8c1-e40f7a72e746)
 
 ## 5.Newsletter
